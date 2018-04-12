@@ -1,0 +1,24 @@
+head{
+font-family: 'Cute Font', cursive;
+font-size:large;
+}
+
+body{
+padding: 40px 60px;
+font-family: cursive;
+font-size: 20px;
+text algn:left;
+background-color:#BCE808
+}
+
+h2 {
+  border-style:solid;
+  color: maroon;
+  text-align: center;
+  font-size: 30px
+ }
+
+ ol {
+
+
+ }
